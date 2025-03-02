@@ -5,7 +5,7 @@ Tambien domino muy bien Laravel Framework. Para demostrarlo, tengo varios proyec
 
 📌 **Proyectos Destacados**  
 - 🔹 [Sistema de Gestión de Tareas](https://github.com/abdel-1234/Sistema-Gestion-Tareas)  
-- 🔹 
+- 🔹 [Sistema de Gestión de Tareas](https://github.com/abdel-1234/Sistema-Gestion-Tareas)  
 
 💡 **Stack Tecnológico**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
