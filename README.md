@@ -1,4 +1,4 @@
-# ¡Hola, soy Abdel! 👋  
+# Hola, soy Abdel 😁👋  
 
 Soy un desarrollador Full Stack con experiencia en diseño y desarrollo de sistemas escalables basados en microservicios. Especializado en Spring Boot, Docker y Keycloak, con habilidades en frontend con Angular. 
 Tambien domino muy bien Laravel Framework. Para demostrarlo, tengo varios proyectos que puedes revisar. :)
