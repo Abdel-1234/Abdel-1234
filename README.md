@@ -17,7 +17,8 @@ Tambien domino muy bien Laravel Framework. Para demostrarlo, tengo varios proyec
 
 
 📫 **Contáctame**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/abdessamad-oubrahim-akkouh-605050311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdessamad-oubrahim-akkouh-605050311/)
+
 
 
 
