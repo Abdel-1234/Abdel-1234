@@ -18,9 +18,16 @@ Para demostrarlo, tengo varios proyectos que puedes revisar. :)
 💡 **Stack Tecnológico**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge&logo=testing-library&logoColor=white)  
+![DevOps](https://img.shields.io/badge/DevOps-CC0000?style=for-the-badge&logo=devops&logoColor=white) 
+
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=cobol&logoColor=white)  
+![AS/400](https://img.shields.io/badge/AS%2F400-121212?style=for-the-badge&logo=ibm&logoColor=white)  
 
 
 📫 **Contáctame**  
