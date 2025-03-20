@@ -4,14 +4,14 @@ Soy un desarrollador Full Stack con experiencia en diseño y desarrollo de siste
 Para demostrarlo, tengo varios proyectos que puedes revisar. :)
 
 📌 **Proyectos Destacados**  
-- 🔹 [Sistema de Gestión de Tareas](https://github.com/abdel-1234/Sistema-Gestion-Tareas)
+- 🔹 [Sistema de Gestión de Tareas](https://github.com/abdel-1234/Sistema-Gestion-Tareas) (Desarrollado en Spring Boot y Angular)
   - 📄 [Explicación del proyecto](https://github.com/Abdel-1234/Sistema-Gestion-Tareas/blob/main/Documentacion_Y_Explicacion_Del_Proyecto.pdf)
 
-- 🔹 [Salamanca360](https://github.com/Abdel-1234/Salamanca360)
+- 🔹 [Salamanca360](https://github.com/Abdel-1234/Salamanca360) (Desarrollado en Laravel)
   - 📄 [Explicación del proyecto](https://github.com/Abdel-1234/Salamanca360/blob/master/A-Explicacion_Y_Documentacion_Del_Proyecto.pdf)  
   - 👁️ [Visualizar el proyecto](https://youtu.be/k8CSaNMOgMo)
 
-- 🔹 [Aplicación-EstadoDeAnimo](https://github.com/Abdel-1234/Aplicacion-EstadoDeAnimo) 
+- 🔹 [Aplicación-EstadoDeAnimo](https://github.com/Abdel-1234/Aplicacion-EstadoDeAnimo) (Desarrollado en Laravel)
   - 👁️ [Visualizar el proyecto](https://github.com/Abdel-1234/Aplicacion-EstadoDeAnimo/blob/main/Vistas.pdf)
 - Ambos, se explican en un documento PDF que podrás encontrar en cada repositorio.
 
