@@ -8,7 +8,7 @@ Para demostrarlo, tengo varios proyectos que puedes revisar. :)
   - 📄 [Explicación del proyecto](https://github.com/Abdel-1234/Sistema-Gestion-Tareas/blob/main/Documentacion_Y_Explicacion_Del_Proyecto.pdf)
 
 - 🔹 [Salamanca360](https://github.com/Abdel-1234/Salamanca360) (Desarrollado en Laravel)
-  - 📄 [Explicación del proyecto](https://github.com/Abdel-1234/Salamanca360/blob/master/A-Explicacion_Y_Documentacion_Del_Proyecto.pdf)  
+  - 📄 [Explicación del proyecto](https://github.com/Abdel-1234/Salamanca360/blob/master/Explicacion_Y_Documentacion_Del_Proyecto.pdf)  
   - 👁️ [Visualizar el proyecto](https://youtu.be/k8CSaNMOgMo)
 
 - 🔹 [Aplicación-EstadoDeAnimo](https://github.com/Abdel-1234/Aplicacion-EstadoDeAnimo) (Desarrollado en Laravel)
