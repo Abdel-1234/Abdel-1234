@@ -13,7 +13,8 @@ Para demostrarlo, tengo varios proyectos que puedes revisar. :)
 
 - 🔹 [Aplicación-EstadoDeAnimo](https://github.com/Abdel-1234/Aplicacion-EstadoDeAnimo) (Desarrollado en Laravel)
   - 👁️ [Visualizar el proyecto](https://github.com/Abdel-1234/Aplicacion-EstadoDeAnimo/blob/main/Vistas.pdf)
-  
+
+- - - -
 
 💡 **Stack Tecnológico**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
@@ -26,6 +27,7 @@ Para demostrarlo, tengo varios proyectos que puedes revisar. :)
 
 ![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=cobol&logoColor=white)  ![AS/400](https://img.shields.io/badge/AS%2F400-121212?style=for-the-badge&logo=ibm&logoColor=white)  
 
+- - - -
 
 📫 **Contáctame**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdessamad-oubrahim-akkouh-605050311/)
