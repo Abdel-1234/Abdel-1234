@@ -13,7 +13,7 @@ Para demostrarlo, tengo varios proyectos que puedes revisar. :)
 
 - 🔹 [Aplicación-EstadoDeAnimo](https://github.com/Abdel-1234/Aplicacion-EstadoDeAnimo) (Desarrollado en Laravel)
   - 👁️ [Visualizar el proyecto](https://github.com/Abdel-1234/Aplicacion-EstadoDeAnimo/blob/main/Vistas.pdf)
-- Ambos, se explican en un documento PDF que podrás encontrar en cada repositorio.
+  
 
 💡 **Stack Tecnológico**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
